@@ -42,11 +42,11 @@ const Contact = () => {
             <motion.h1 variants={variants}>Let's work together</motion.h1>
             <motion.div className="item" variants={variants}>
                 <h2>Mail</h2>
-                <span>deepvkmusic@gmail.com</span>
+                <span>deepakoramm@gmail.com</span>
             </motion.div>
             <motion.div className="item" variants={variants}>
                 <h2>Address</h2>
-                <span>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, exercitationem!</span>
+                <span>Bangalore, Electronic City, Phase-1</span>
             </motion.div>
             <motion.div className="item" variants={variants}>
                 <h2>Phone</h2>
