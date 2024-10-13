@@ -22,7 +22,7 @@ const Navbar = () => {
                 <motion.a href="#"  
                 whileHover={{ scale: 1.5, rotate: 360 }}
                 whileTap={{scale: 0.8,}}
-                ><a href="https://www.w3schools.com" target='_blank' rel="noreferrer"><img src="/spotify.svg" alt="facebook"/></a></motion.a>
+                ><a href="https://open.spotify.com/track/4H5657KtvtfvGCZ6WNlT7W?si=afc6483b648a45e8" target='_blank' rel="noreferrer"><img src="/spotify.svg" alt="facebook"/></a></motion.a>
                 <motion.a href="#" 
                 whileHover={{ scale: 1.5, rotate: 360 }}
                 whileTap={{scale: 0.8,}}

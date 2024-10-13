@@ -7,21 +7,28 @@ const item = [
     id:1,
     title:"PayU India",
     img:"/payu-india.jpg",
-    desc:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, sequi.",
+    desc:"Payu offers the country’s businesses & consumers with financial services & products they need to thrive.",
     link:"https://corporate.payu.in/careers/"
   },
   {
     id:2,
     title:"Shree Maruti Courier Pvt. Ltd.",
     img:"/SMCS.png",
-    desc:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, sequi.",
+    desc:"SMCS is a ntegrated logistics solutions for businesses across India and cater to all their supply-chain needs in one place.",
     link:"https://www.shreemaruti.com/network-map"
   },
   {
     id:3,
     title:"Nata Farming",
     img:"https://images.pexels.com/photos/2049422/pexels-photo-2049422.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    desc:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, sequi."
+    desc:""
+  },
+  {
+    id:4,
+    title:"Test Dashboard",
+    img:"https://www.webstacks.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F9qa6g0dkae5p%2F5YZv9xIcoJPASz7tj4yHzD%2F6f5ef537f8191d19108fee724b47babe%2Ffintech-websites-collage.jpg&w=3840&q=75",
+    desc:"",
+    link:"https://juspay-dashboard-psi.vercel.app"
   }
 ]
 const Single = ({item})=>{
